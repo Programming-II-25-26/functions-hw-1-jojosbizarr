@@ -8,6 +8,8 @@ Sample List : [1,2,3,3,3,3,4,5]
 Unique List : [1, 2, 3, 4, 5]
 
 If you finish this and want more to work on:
+
+
 Write a Python function named calculate_grade that takes two parameters: score (an integer representing the student's score out of 100) and bonus (an integer representing any bonus points earned). The function should calculate the final grade by adding the score and bonus, then returning the result. Additionally, the function should print a message indicating whether the student passed or failed based on their final grade. If the final grade is 60 or above, consider it a pass; otherwise, it's a fail. 
 
 
