@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avisi\\source\\repos\\Functions HW 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7A61DE-C360-4D0D-8666-88F4A539C574}|Functions HW 1\\Functions HW 1.vcxproj|C:\\Users\\avisi\\source\\repos\\Functions HW 1\\Functions HW 1\\Functions HW 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7A61DE-C360-4D0D-8666-88F4A539C574}|Functions HW 1\\Functions HW 1.vcxproj|solutionrelative:Functions HW 1\\Functions HW 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7A61DE-C360-4D0D-8666-88F4A539C574}|Functions HW 1\\Functions HW 1.vcxproj|C:\\Users\\avisi\\Downloads\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\avisi\\Downloads\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\README.md",
+              "ToolTip": "C:\\Users\\avisi\\Downloads\\README.md",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-18T21:05:16.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions HW 1.cpp",
+              "DocumentMoniker": "C:\\Users\\avisi\\source\\repos\\Functions HW 1\\Functions HW 1\\Functions HW 1.cpp",
+              "RelativeDocumentMoniker": "Functions HW 1\\Functions HW 1.cpp",
+              "ToolTip": "C:\\Users\\avisi\\source\\repos\\Functions HW 1\\Functions HW 1\\Functions HW 1.cpp",
+              "RelativeToolTip": "Functions HW 1\\Functions HW 1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T21:02:54.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
